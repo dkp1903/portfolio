@@ -4,7 +4,7 @@
   "homepage": "https://dkp1903.github.io",
   "version": "0.1.0",
   "scripts": {
-    "build": "react-scripts build",
+    "build": "CI= react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
