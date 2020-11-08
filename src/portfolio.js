@@ -12,9 +12,9 @@ const greeting = {
 	logo_name: "DKP",
 	nickname: "DKP",
 	subTitle:
-		"A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+		"Full Stack Developer and Blogger, aiming to create robust products to aid society, help propagate learning and figure out solutions.",
 	resumeLink:
-		"https://bit.ly/dkp-resume-1",
+		"https://link.dkp.today/resume",
 	portfolio_repository: "https://github.com/dkp1903",
 };
 
@@ -240,7 +240,18 @@ const skills = {
         }
       ]
     },
-  ]
+        {
+      title: "Blogging",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ I write on Data Structures and Algorithms, Technology and Markets in a lucid, fun, meme-fied way",
+        "⚡ My newsletters have 200+ subscribers and my blog has 10k+ monthly visits",
+      ],
+      softwareSkills: [
+        
+      ]
+    },
+]
 };
 
 // Education Page
