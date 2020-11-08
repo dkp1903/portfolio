@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true,  // Change this to false if you don't want Splash screen.
+  isSplash: false,  // Change this to false if you don't want Splash screen.
 };
 
 
@@ -317,11 +317,10 @@ const degrees = {
       alt_name: "DA-IICT",
       duration: "2017 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics."
-      ],
-      website_link: "http://daiict.ac.in"
+        "⚡ Courses I did include DBMS, Networks, Operating Systems, Natural Language Processing, Machine Learning",
+        "⚡ I led the team that maintains the Student Government website, led the Entrepreneurship cell of the institute and mentored open source development programs",
+        ],
+      website_link: "https://daiict.ac.in"
     }
   ]
 }
@@ -332,9 +331,24 @@ const certifications = {
 			title: "Problem Solving",
 			subtitle: "- HackerRank",
 			logo_path: "logo.png",
-			certificate_link:
-				"https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-			alt_name: "GCP",
+			certificate_link:"#",
+			alt_name: "HackerRank",
+			color_code: "#4285F499"
+        },
+        {
+			title: "MongoDB",
+			subtitle: "Certified MongoDB Expert",
+			logo_path: "logo.png",
+			certificate_link:"#",
+			alt_name: "MongoDB",
+			color_code: "#4285F499"
+        },
+        {
+			title: "Scrum Master",
+			subtitle: "- Certified",
+			logo_path: "logo.png",
+			certificate_link:"#",
+			alt_name: "Agile",
 			color_code: "#4285F499"
 		}
 	]
@@ -358,9 +372,20 @@ const experience = {
 					company_url: "https://db.com/",
 					logo_path: "legato_logo.png",
 					duration: "May 2020 - June 2020",
-					location: "Hyderabad, Telangana",
+					location: "Remote",
 					description:
 						"Development of a MEAN Stack Stock Trading Dashboard",
+					color: "#0879bf",
+                },
+                {
+					title: "SDE Intern",
+					company: "Appbase",
+					company_url: "https://appbase.io/",
+					logo_path: "legato_logo.png",
+					duration: "September 2020 - Oct 2020",
+					location: "Remote",
+					description:
+						"Implementing an end to end testing suite to improve user retentivity for search dashboard",
 					color: "#0879bf",
 				},
 				
@@ -392,8 +417,7 @@ const experience = {
 // Projects Page
 const projectsHeader = {
 	title: "Projects",
-	description:
-		"My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+	description: "My projects reflect my passion to solve real life problems using my technical expertise",
 	avatar_image_path: "projects_image.svg",
 };
 
@@ -402,7 +426,7 @@ const projectsHeader = {
 const contactPageData = {
 	contactSection: {
 		title: "Contact Me",
-		profile_image_path: "dkp_speak_photo.jpeg",
+		profile_image_path: "dkp-photo.jpeg",
 		description:
 			"Project, guidance or content, hit me up",
 	},
@@ -422,7 +446,7 @@ const contactPageData = {
 	},
 	phoneSection: {
 		title: "Phone Number",
-		subtitle: "+91 9023515030",
+		subtitle: "+91 9426893264",
 	},
 };
 
