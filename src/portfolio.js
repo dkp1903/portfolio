@@ -12,7 +12,7 @@ const greeting = {
 	logo_name: "DKP",
 	nickname: "DKP",
 	subTitle:
-		"Full Stack Developer and Blogger, aiming to create robust products to aid society, help propagate learning and figure out solutions.",
+		"Full Stack Developer and Blogger - democratizing education and creating socially enhancive products.",
 	resumeLink:
 		"https://link.dkp.today/resume",
 	portfolio_repository: "https://github.com/dkp1903",
@@ -65,8 +65,8 @@ const skills = {
 		title: "Full Stack Development",
 		fileName: "FullStackImg",
 		skills: [
-		  "⚡ Full Stack Web Development in JavaScript, React, Angular, Electron, Gatsby, Node, Express",
-		  "⚡ Developing mobile applications in React Native and Android(Java/Kotlin)",
+		  "⚡ Experience in developing robust, scalable end to end applications across various tech stacks including JavaScript(React/Angular/Vue/Gatsby/Electron, Node) and Java(Spring, Android)",
+		  "⚡ Multiple stints across startup and corporate cultures have given me a strong knowledge of industry, and urge me to upskill correctly",
 		  
 		],
 		softwareSkills: [
@@ -138,11 +138,11 @@ const skills = {
 		]
 	  },
     {
-      title: "Data Science & AI",
+      title: "NLP and Deep Learning",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Natural Language Processing projects",
+        "⚡ Developing industry relevant end to end models for Natural Language and Deep learning tasks",
+        "⚡ My projects are aimed at solving existing problems in the world, including text generation, hate content detection, financial news extraction",
         
       ],
       softwareSkills: [
@@ -183,7 +183,7 @@ const skills = {
       title: "DevOps",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Cloud platform agnostic knowledge of deployment, and have cultivated the right mindset for CI-CD",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
 
       ],
@@ -244,7 +244,7 @@ const skills = {
       title: "Blogging",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ I write on Data Structures and Algorithms, Technology and Markets in a lucid, fun, meme-fied way",
+        "⚡ I write on Data Structures and Algorithms, Technology and Markets in a lucid, enhancive manner",
         "⚡ My newsletters have 200+ subscribers and my blog has 10k+ monthly visits",
       ],
       softwareSkills: [
@@ -336,11 +336,43 @@ const certifications = {
 			color_code: "#4285F499"
         },
         {
+			title: "REST API",
+			subtitle: "- HackerRank",
+			logo_path: "logo.png",
+			certificate_link:"#",
+			alt_name: "HackerRank",
+			color_code: "#4285F499"
+        },
+        {
+			title: "Java",
+			subtitle: "- HackerRank",
+			logo_path: "logo.png",
+			certificate_link:"#",
+			alt_name: "HackerRank",
+			color_code: "#4285F499"
+        },
+        {
+			title: "Node",
+			subtitle: "- HackerRank",
+			logo_path: "logo.png",
+			certificate_link:"#",
+			alt_name: "HackerRank",
+			color_code: "#4285F499"
+        },
+        {
 			title: "MongoDB",
 			subtitle: "Certified MongoDB Expert",
 			logo_path: "logo.png",
 			certificate_link:"#",
 			alt_name: "MongoDB",
+			color_code: "#4285F499"
+        },
+        {
+			title: "Percona MYSQL",
+			subtitle: "Certified MySQL expert",
+			logo_path: "logo.png",
+			certificate_link:"#",
+			alt_name: "MySQL",
 			color_code: "#4285F499"
         },
         {
@@ -366,10 +398,21 @@ const experience = {
 		{
 			title: "Work",
 			experiences: [
+                {
+					title: "SWE Intern",
+					company: "Oye Rickshaw",
+					company_url: "https://dkprobes.tech/experience/oye-rickshaw",
+					logo_path: "legato_logo.png",
+					duration: "Nov 2020 - Present",
+					location: "Remote",
+					description:
+						"Pioneer of the Energy Services Team - responsible for design, development and deployment of interface to allow tracking battery status of vehicles, and allow onboarding of new battery vendors",
+					color: "#0879bf",
+                },
 				{
 					title: "Tech Analyst",
 					company: "Deutsche Bank",
-					company_url: "https://db.com/",
+					company_url: "https://dkprobes.tech/experience/db",
 					logo_path: "legato_logo.png",
 					duration: "May 2020 - June 2020",
 					location: "Remote",
@@ -406,6 +449,16 @@ const experience = {
 					location: "Gandhinagar, Gujarat",
 					description:
 						"Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+					color: "#D83B01",
+                },
+                {
+					title: "AWS Educate Student Partner",
+					company: "Microsoft",
+					company_url: "https://www.microsoft.com/",
+					logo_path: "microsoft_logo.png",
+					duration: "Jan 2020 - Present",
+					location: "Gandhinagar, Gujarat",
+					description: "Creating a community presence around AWS Educate",
 					color: "#D83B01",
 				},
 				
