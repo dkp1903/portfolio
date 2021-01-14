@@ -242,7 +242,7 @@ const skills = {
     },
         {
       title: "Blogging",
-      fileName: "CloudInfraImg",
+      fileName: "BlogImg",
       skills: [
         "⚡ I write on Data Structures and Algorithms, Technology and Markets in a lucid, enhancive manner",
         "⚡ My newsletters have 200+ subscribers and my blog has 10k+ monthly visits",
