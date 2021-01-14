@@ -61,7 +61,7 @@ export const redTheme = {
 
 export const blackTheme = {
 					body: "#000000",
-					text: "#39ff14",
+					text: "#04d9ff",
 					highlight: "#ffffff",
 					dark: "#39ff14",
 					secondaryText: "#faed27",
