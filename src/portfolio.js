@@ -398,15 +398,26 @@ const experience = {
 		{
 			title: "Work",
 			experiences: [
+		{
+					title: "SDE Intern",
+					company: "Crio",
+					company_url: "https://crio.do",
+					logo_path: "legato_logo.png",
+					duration: "Jan 2021 - Present",
+					location: "Remote",
+					description:
+						"Part of the Content Engineering Team, creation of an end to end content pipeline of Full Stack projects to augment the Crio Winter of Doing program by agile, in-depth requirement analysis, SRS creation and codebase creation and maintenance to drive Net Promoter Score increase by 20 pp",
+					color: "#000",
+                },
                 {
 					title: "SWE Intern",
 					company: "Oye Rickshaw",
 					company_url: "https://dkprobes.tech/experience/oye-rickshaw",
 					logo_path: "legato_logo.png",
-					duration: "Nov 2020 - Present",
+					duration: "Nov 2020 - Jan 2021",
 					location: "Remote",
 					description:
-						"Pioneer of the Energy Services Team - responsible for design, development and deployment of interface to allow tracking battery status of vehicles, and allow onboarding of new battery vendors",
+						"Part of the Energy Services Team - responsible for design, development and deployment of interface to allow tracking battery status of vehicles, and allow onboarding of new battery vendors",
 					color: "#0879bf",
                 },
 				{
