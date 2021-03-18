@@ -1,1 +1,9 @@
-{"data":[{"login":"CodingParkFunSeries","avatarUrl":"https://avatars3.githubusercontent.com/u/57292974?v=4","__typename":"Organization"}]}
+{
+  "data": [
+    {
+      "login": "FauxJira",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60550865?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

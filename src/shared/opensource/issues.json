@@ -1,1 +1,1033 @@
-{"data":[],"open":0,"closed":0,"totalCount":0}
+{
+  "closed": 49,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU4MDA4ODgxOTA=",
+      "closed": false,
+      "title": "How to host on Heroku",
+      "createdAt": "2021-02-04T03:13:27Z",
+      "url": "https://github.com/FauxJira/FauxJira/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "FauxJira",
+        "url": "https://github.com/FauxJira/FauxJira",
+        "owner": {
+          "login": "FauxJira",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60550865?v=4",
+          "url": "https://github.com/FauxJira"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Nzc0MDM3NTI=",
+      "closed": true,
+      "title": "Alert dialog opens up even on valid input",
+      "createdAt": "2021-01-02T04:39:50Z",
+      "url": "https://github.com/rutikwankhade/Finman/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+            "name": "Dushyant Pathak",
+            "url": "https://github.com/dkp1903"
+          }
+        ]
+      },
+      "repository": {
+        "name": "Finman",
+        "url": "https://github.com/rutikwankhade/Finman",
+        "owner": {
+          "login": "rutikwankhade",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47467468?u=ad44c7767e268edf860dee01120d7b69ec5ad82f&v=4",
+          "url": "https://github.com/rutikwankhade"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDg1OTA5NzM=",
+      "closed": true,
+      "title": "add private routes",
+      "createdAt": "2020-11-23T08:32:10Z",
+      "url": "https://github.com/dkp1903/devagram/issues/80",
+      "number": 80,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDg0ODM4NjY=",
+      "closed": true,
+      "title": "responsive-ising follow card",
+      "createdAt": "2020-11-23T05:38:10Z",
+      "url": "https://github.com/dkp1903/devagram/issues/78",
+      "number": 78,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDg0NTYyMTI=",
+      "closed": true,
+      "title": "create follow card",
+      "createdAt": "2020-11-23T04:32:24Z",
+      "url": "https://github.com/dkp1903/devagram/issues/76",
+      "number": 76,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDgzMjc3NTM=",
+      "closed": true,
+      "title": "post comp",
+      "createdAt": "2020-11-22T19:24:01Z",
+      "url": "https://github.com/dkp1903/devagram/issues/74",
+      "number": 74,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDgyODgxOTk=",
+      "closed": true,
+      "title": "toggle job hack btn",
+      "createdAt": "2020-11-22T17:11:28Z",
+      "url": "https://github.com/dkp1903/devagram/issues/72",
+      "number": 72,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDgyNTI2NTE=",
+      "closed": true,
+      "title": "hackathon route",
+      "createdAt": "2020-11-22T14:17:07Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/44",
+      "number": 44,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDgyNTI0Nzg=",
+      "closed": true,
+      "title": "change hackathon style",
+      "createdAt": "2020-11-22T14:16:13Z",
+      "url": "https://github.com/dkp1903/devagram/issues/70",
+      "number": 70,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDgyNTIyMjg=",
+      "closed": true,
+      "title": "make show story component and add nav route",
+      "createdAt": "2020-11-22T14:14:57Z",
+      "url": "https://github.com/dkp1903/devagram/issues/69",
+      "number": 69,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDgxODMwMTk=",
+      "closed": true,
+      "title": "deployment",
+      "createdAt": "2020-11-22T06:45:58Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/42",
+      "number": 42,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDgwNDAwNTQ=",
+      "closed": true,
+      "title": "style refactoring",
+      "createdAt": "2020-11-21T15:24:01Z",
+      "url": "https://github.com/dkp1903/devagram/issues/65",
+      "number": 65,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDc2MTgyMjQ=",
+      "closed": true,
+      "title": "cloudinary image upload",
+      "createdAt": "2020-11-20T16:22:24Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/40",
+      "number": 40,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDc1ODg4Mzg=",
+      "closed": true,
+      "title": "add job routes",
+      "createdAt": "2020-11-20T15:42:17Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/39",
+      "number": 39,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDc1NjYzNzM=",
+      "closed": false,
+      "title": "hackathon card",
+      "createdAt": "2020-11-20T15:11:38Z",
+      "url": "https://github.com/dkp1903/devagram/issues/63",
+      "number": 63,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDc1NjE0MDA=",
+      "closed": true,
+      "title": "add redux and google oauth",
+      "createdAt": "2020-11-20T15:04:57Z",
+      "url": "https://github.com/dkp1903/devagram/issues/62",
+      "number": 62,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzkyNzA0NDI=",
+      "closed": true,
+      "title": "Like and comm routes",
+      "createdAt": "2020-11-09T18:42:04Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/31",
+      "number": 31,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzkxNzAzNzQ=",
+      "closed": true,
+      "title": "Create hackathon schema",
+      "createdAt": "2020-11-09T16:23:17Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/30",
+      "number": 30,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzkxNjg2ODI=",
+      "closed": true,
+      "title": "UI revamp",
+      "createdAt": "2020-11-09T16:21:03Z",
+      "url": "https://github.com/dkp1903/devagram/issues/55",
+      "number": 55,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzcxNzkyODM=",
+      "closed": true,
+      "title": "crud on post routes",
+      "createdAt": "2020-11-05T18:47:02Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzcxNTc1NzM=",
+      "closed": true,
+      "title": "Post UI improve",
+      "createdAt": "2020-11-05T18:10:41Z",
+      "url": "https://github.com/dkp1903/devagram/issues/48",
+      "number": 48,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzcxMTk2NjM=",
+      "closed": true,
+      "title": "small improves in login and others",
+      "createdAt": "2020-11-05T17:18:12Z",
+      "url": "https://github.com/dkp1903/devagram/issues/46",
+      "number": 46,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzYyMDA0NTc=",
+      "closed": true,
+      "title": "Typo fixes",
+      "createdAt": "2020-11-04T15:21:13Z",
+      "url": "https://github.com/dkp1903/devagram/issues/41",
+      "number": 41,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzU3NTY0OTA=",
+      "closed": true,
+      "title": "Sample dashboard",
+      "createdAt": "2020-11-04T02:08:54Z",
+      "url": "https://github.com/dkp1903/devagram/issues/37",
+      "number": 37,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzQ0NDgyNDk=",
+      "closed": true,
+      "title": "Create cards for hackathons",
+      "createdAt": "2020-11-02T11:59:51Z",
+      "url": "https://github.com/dkp1903/devagram/issues/35",
+      "number": 35,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzQwMjc5ODI=",
+      "closed": true,
+      "title": "Create story routes",
+      "createdAt": "2020-11-01T18:10:27Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzM3ODMyNzE=",
+      "closed": true,
+      "title": "Add story routes",
+      "createdAt": "2020-10-31T18:39:57Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzM2OTQ4NjA=",
+      "closed": true,
+      "title": "Create profile page",
+      "createdAt": "2020-10-31T11:06:50Z",
+      "url": "https://github.com/dkp1903/devagram/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzM2OTM5MDY=",
+      "closed": true,
+      "title": "route for post",
+      "createdAt": "2020-10-31T11:00:58Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzI0NTg1NjY=",
+      "closed": true,
+      "title": "Create profile routes",
+      "createdAt": "2020-10-29T16:17:16Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzI0NTc2OTA=",
+      "closed": true,
+      "title": "Make Feeds page",
+      "createdAt": "2020-10-29T16:16:15Z",
+      "url": "https://github.com/dkp1903/devagram/issues/31",
+      "number": 31,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzEyMTA3Mjg=",
+      "closed": true,
+      "title": "User schema update",
+      "createdAt": "2020-10-28T08:13:51Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzEyMTAwOTU=",
+      "closed": true,
+      "title": "Dashboard create",
+      "createdAt": "2020-10-28T08:12:53Z",
+      "url": "https://github.com/dkp1903/devagram/issues/29",
+      "number": 29,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjkwMjY1NjA=",
+      "closed": true,
+      "title": "Create sign in and up routes",
+      "createdAt": "2020-10-25T13:56:49Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Mjg2NTY5ODM=",
+      "closed": true,
+      "title": "OAuth",
+      "createdAt": "2020-10-24T04:31:41Z",
+      "url": "https://github.com/dkp1903/devagram/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Mjc5NTkyNzg=",
+      "closed": true,
+      "title": "Sign up page",
+      "createdAt": "2020-10-23T06:40:46Z",
+      "url": "https://github.com/dkp1903/devagram/issues/25",
+      "number": 25,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Mjc1OTY4NDY=",
+      "closed": true,
+      "title": "add fake login",
+      "createdAt": "2020-10-22T17:47:42Z",
+      "url": "https://github.com/dkp1903/devagram/issues/23",
+      "number": 23,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Mjc1OTYxMDU=",
+      "closed": true,
+      "title": "add env to gitignore",
+      "createdAt": "2020-10-22T17:46:30Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjY2NjU1Mjk=",
+      "closed": true,
+      "title": "Create schema",
+      "createdAt": "2020-10-21T16:25:25Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjUxMzUzNzA=",
+      "closed": true,
+      "title": "Add env and gitignore",
+      "createdAt": "2020-10-20T02:37:02Z",
+      "url": "https://github.com/dkp1903/devagram/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjUxMzM3NzU=",
+      "closed": true,
+      "title": "Add dotenv and gitignore",
+      "createdAt": "2020-10-20T02:33:13Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjQ3NzI3NDM=",
+      "closed": true,
+      "title": "Create boilerplate",
+      "createdAt": "2020-10-19T16:18:10Z",
+      "url": "https://github.com/dkp1903/devagram-backend/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram-backend",
+        "url": "https://github.com/dkp1903/devagram-backend",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjQ3Mzk0NTg=",
+      "closed": true,
+      "title": "Initial Front End Setup using CRA",
+      "createdAt": "2020-10-19T15:35:56Z",
+      "url": "https://github.com/dkp1903/devagram/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjQ3MzY1Mjc=",
+      "closed": true,
+      "title": "Detailed page wise wireframe",
+      "createdAt": "2020-10-19T15:32:14Z",
+      "url": "https://github.com/dkp1903/devagram/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjQwNDU0Mzk=",
+      "closed": true,
+      "title": "Add UI Design - homepage",
+      "createdAt": "2020-10-18T16:34:57Z",
+      "url": "https://github.com/dkp1903/devagram/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjMxNzM2OTk=",
+      "closed": true,
+      "title": "Add digital ocean hatch",
+      "createdAt": "2020-10-16T12:27:09Z",
+      "url": "https://github.com/dkp1903/Ent-resources/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Ent-resources",
+        "url": "https://github.com/dkp1903/Ent-resources",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTg3NTc4OTU=",
+      "closed": true,
+      "title": "Refactor SRS",
+      "createdAt": "2020-10-11T04:48:05Z",
+      "url": "https://github.com/dkp1903/devagram/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTg2NzIwMjE=",
+      "closed": true,
+      "title": "Add user needs",
+      "createdAt": "2020-10-10T18:03:57Z",
+      "url": "https://github.com/dkp1903/devagram/issues/12",
+      "number": 12,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTg2NzE0NDM=",
+      "closed": true,
+      "title": "Job app section",
+      "createdAt": "2020-10-10T18:00:47Z",
+      "url": "https://github.com/dkp1903/devagram/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTc5NjMxOTA=",
+      "closed": true,
+      "title": "Add SRS Content-1",
+      "createdAt": "2020-10-09T08:35:46Z",
+      "url": "https://github.com/dkp1903/devagram/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTc0ODExMzY=",
+      "closed": true,
+      "title": "Create SRS Document",
+      "createdAt": "2020-10-08T16:11:53Z",
+      "url": "https://github.com/dkp1903/devagram/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "devagram",
+        "url": "https://github.com/dkp1903/devagram",
+        "owner": {
+          "login": "dkp1903",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39042169?u=c8ba8d2fb5e70175917bf939978014ea41ed5ba7&v=4",
+          "url": "https://github.com/dkp1903"
+        }
+      }
+    }
+  ],
+  "open": 2,
+  "totalCount": 51
+}
